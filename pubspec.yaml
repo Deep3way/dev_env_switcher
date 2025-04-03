@@ -1,6 +1,6 @@
 name: dev_env_switcher
 description: A Flutter/Dart library to switch between development environments at runtime or build time.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/Deep3way/dev_env_switcher
 repository: https://github.com/Deep3way/dev_env_switcher
 issue_tracker: https://github.com/Deep3way/dev_env_switcher/issues

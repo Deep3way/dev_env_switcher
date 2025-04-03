@@ -14,7 +14,7 @@ Add this to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  dev_env_switcher: ^1.0.0
+  dev_env_switcher: ^1.1.0
 ```
 
 
